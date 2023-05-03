@@ -13,7 +13,7 @@ Vérifiez que dans votre dossier se trouve les éléments suivants :
 
 
 #### MAKE IT WORK ####
-Ligne par ligne vous sera décrit quuoi changer/introduire.
+Ligne par ligne vous sera décrit quoi changer/introduire.
 
 ## MatrixGenerator.py :
 ligne 17 et 18, introduire vos paramètres de départ (altitude et vitesse)
