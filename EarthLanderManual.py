@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 @author: LJ
+-----------
+Modified to be usable in the project by NXabo
 """
 from tkinter import *
 import math
