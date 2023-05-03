@@ -36,8 +36,8 @@ ligne 70, réglez la fréquence de mise à jour de la progression en modifiant l
 ligne 82 et 83, ré-introduisez vos paramètres de départ
 
 ## EarthLanderManual.py :
-ligne 10,11,18 et 19, ré-introduisez les paramètres en respectant ce que vous avez fait dans 
-                      EarthLanderQL.
+ligne 12, 13, 20 et 21, ré-introduisez les paramètres en respectant ce que vous avez fait dans 
+                        EarthLanderQL.
 
 
 #### trans_matrix ####
