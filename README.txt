@@ -15,7 +15,7 @@ Vérifiez que dans votre dossier se trouve les éléments suivants :
 #### MAKE IT WORK ####
 Ligne par ligne vous sera décrit quuoi changer/introduire.
 
-## EarthLanderQL.py :
+## MatrixGenerator.py :
 ligne 17 et 18, introduire vos paramètres de départ (altitude et vitesse)
 ligne 22 et 23, introduire les vecteurs d'altitudes et vitesses possibles
                 EXEMPLE :
