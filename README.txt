@@ -1,4 +1,4 @@
-# EarthLander - Nicolas Xaborov - Modifié pour Reinforcement Learning - README
+# EarthLander - Vincent Branders et Nicolas Xaborov - Modifié pour Reinforcement Learning - README
 # 04/2023 #
 
 
